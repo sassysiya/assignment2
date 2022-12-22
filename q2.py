@@ -1,0 +1,7 @@
+a=input("pls enter your name: ")
+b=input("pls enter your sid: ")
+c=input("pls enter your dept.: ")
+d=input("pls enter your cgpa: ")
+print("hey, %s here!" %a)
+print("my SID is %s" %b)
+print("i am from %s department and my cgpa is %s" %(c,d))
